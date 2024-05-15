@@ -1,0 +1,176 @@
+{    
+    "createCharacter": {
+        "title": "Chose avatar",
+        "save": "Save",
+        "usernameMin2Chars": "Username must have min 2 characters",
+        "avatar": {
+            "username": "Username",
+            "sex": "Sex",
+            "sexTypes": {
+                "man": "Man",
+                "woman": "Woman"
+            },
+            "faceColor": "Skin",
+            "faceColorTypes": {
+                "light": "Light",
+                "dark": "Dark"
+            },
+            "hairStyle": "Hair",
+            "hairStyleTypes": {
+                "thick": "Short",
+                "mohawk": "Mohawk",
+                "womanLong": "Long",
+                "womanShort": "Bangs"
+            },
+            "hairColor": "Hair color",
+            "hairColorTypes": {
+                "black": "Black",
+                "blonde": "Blonde",
+                "brown": "Brown",
+                "redhead": "Redhead",
+                "pink": "Pink"
+            },
+            "eyeStyle": "Eyes",
+            "eyeStyleTypes": {
+                "circle": "Circle",
+                "oval": "Oval",
+                "smile": "Smile"
+            },
+            "noseStyle": "Nose",
+            "noseStyleTypes": {
+                "short": "Short",
+                "long": "Long",
+                "round": "Round"
+            },
+            "mouthStyle":"Mouth",
+            "mouthStyleTypes": {
+                "peace": "Normal",
+                "smile": "Smile",
+                "laugh": "Laugh"
+            },
+            "glassesStyle": "Accessories",
+            "glassesStyleTypes": {
+                "none": "None",
+                "round": "Round glasses",
+                "square": "Square glasses"
+            }
+        }   
+    }, 
+    "dashboardHeader": {
+        "myAccount": "My Account",
+        "profile": "Profile",
+        "settings": "Settings",
+        "logout": "Logout"
+    },
+    "index": {
+        "login": "Login",
+        "register": "Register",
+        "wrongEmail": "Invalid email address",
+        "emptyPassword": "Password cannot be empty",
+        "signUp": "Sign up",
+        "signIn": "Sign in",
+        "password": "Password",
+        "username": "Username"
+    },
+    "sidebar": {
+        "desktop": "Desktop",
+        "team": "Team",
+        "canteen": "Canteen",
+        "hierarchy": "Hierarchy",
+        "hallOfShame": "Hall of Shame",
+        "messages": "Messages",
+        "settings": "Settings",
+        "signout": "Logout",
+        "adminPanel": "Panel Admina"
+    },
+    "desktop": {
+        "title": "Desktop",
+        "energy": "Energy",
+        "quitButton": {
+            "boss": "Boss",
+            "message": "What are you doing? You can't just quit!"
+        },
+        "tasks": {
+            "tasks": "Tasks",
+            "energy": "Energy",
+            "start": "Start",
+            "exp": "Experience",
+            "money": "Money",
+            "finish": "Finish",
+            "close": "Close",
+            "deals": "deals",
+            "damage": "damage"
+        },
+        "employeeCard": {
+            "employeeCard": "Employee Card",
+            "name": "Name",
+            "level": "Level",
+            "team": "Team",
+            "brainHealth": "Brain health",
+            "brainHealthDesc": "Brain health increases your endurance",
+            "pressure": "Pressure",
+            "pressureDesc": "Pressure increasesc the power of your attacks",
+            "stressResistance": "Stress resistance",
+            "stressResistanceDesc": "Stress resistance increases your defence",
+            "logic": "Logic",
+            "logicDesc": "Logic increases the power of your special attacks",
+            "willpower": "Willpower",
+            "willpowerDesc": "Willpower increases your special defence",
+            "luck": "Luck",
+            "luckDesc": "Luck increases the chance of critical damage",
+            "pointsToSpend": "Points to spend",
+            "exp": "Experience"
+        },
+        "stats": {
+            "stats": "Stats",
+            "health": "Health",
+            "damage": "Damage",
+            "defence": "Defence",
+            "spDamage": "Sp. Damage",
+            "spDefence": "Sp. Defence",
+            "criticalRate": "Critical rate"
+        }
+    },
+    "team": {
+        "title": "Team"
+    },
+    "inbox": {
+        "title": "Inbox",
+        "header": {
+            "title": "Title",
+            "sender": "Sender",
+            "date": "Date"
+        },
+        "message": {
+            "message": "Message",
+            "answer": "Answer",
+            "send": "Send",
+            "from": "From",
+            "date": "Date",
+            "sendMessage": "Send message",
+            "messageRequired": "Message is required"
+        }
+    },
+    "canteen": {
+        "title": "Canteen"
+    },
+    "hierarchy": {
+        "title": "Hierarchy"
+    },
+    "hallOfShame": {
+        "title": "Hall of Shame",
+        "tabs": {
+            "employees": "Employees",
+            "teams": "Teams"
+        },
+        "employeesList": {
+            "employeesRanking": "Employees Ranking"
+        }
+    },
+    "settings": {
+        "title": "Settings"
+    },
+    "profile": {
+        "title": "Profile"
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "createCharacter": {
+        "title": "Stwórz postać",
+        "save": "Zapisz",
+        "usernameMin2Chars": "Nazwa użytkownika musi mieć przynajmniej 2 znaki",
+        "avatar": {
+            "username": "Nazwa użytkownika",
+            "sex": "Płeć",
+            "sexTypes": {
+                "man": "Mężczyzna",
+                "woman": "Kobieta"
+            },
+            "faceColor": "Kolor twarzy",
+            "faceColorTypes": {
+                "light": "Jasny",
+                "dark": "Ciemny"
+            },
+            "hairStyle": "Włosy",
+            "hairStyleTypes": {
+                "thick": "Krótkie",
+                "mohawk": "Irokez",
+                "womanLong": "Długie",
+                "womanShort": "Długie z grzywką"
+            },
+            "hairColor": "Kolor włosów",
+            "hairColorTypes": {
+                "black": "Czarne",
+                "blonde": "Blond",
+                "brown": "Brązowe",
+                "redhead": "Rude",
+                "pink": "Różowe"
+            },
+            "eyeStyle": "Oczy",
+            "eyeStyleTypes": {
+                "circle": "Okrągłe",
+                "oval": "Owalne",
+                "smile": "Uśmiechnięte"
+            },
+            "noseStyle": "Nos",
+            "noseStyleTypes": {
+                "short": "Krótki",
+                "long": "Długi",
+                "round": "Zaokrąglony"
+            },
+            "mouthStyle":"Usta",
+            "mouthStyleTypes": {
+                "peace": "Zwykłe",
+                "smile": "Uśmiechnięte",
+                "laugh": "Radosne"
+            },
+            "glassesStyle": "Akcesoria",
+            "glassesStyleTypes": {
+                "none": "Brak",
+                "round": "Okrągłe okulary",
+                "square": "Kwadratowe okulary"
+            }
+        }   
+    },
+    "dashboardHeader": {
+        "myAccount": "Moje konto",
+        "profile": "Profil",
+        "settings": "Ustawienia",
+        "logout": "Wyloguj"
+    },
+    "index": {
+        "login": "Logowanie",
+        "register": "Rejestracja",
+        "wrongEmail": "Niepoprawny adres email",
+        "emptyPassword": "Hasło nie może być puste",
+        "signUp": "Zarejestruj",
+        "signIn": "Zaloguj",
+        "password": "Hasło",
+        "username": "Nazwa użytkownika"
+    },
+    "sidebar": {
+        "desktop": "Pulpit",
+        "team": "Zespół",
+        "canteen": "Kantyna",
+        "hierarchy": "Hierarchia",
+        "hallOfShame": "Lista wstydu",
+        "messages": "Wiadomości",
+        "settings": "Ustawienia",
+        "signout": "Wyloguj",
+        "adminPanel": "Panel Admina"
+    },
+    "desktop": {
+        "title": "Pulpit",
+        "energy": "Energia",
+        "quitButton": {
+            "boss": "Szef",
+            "message": "Co ty próbujesz? Nie możesz sobie tak poprostu odejść!"
+        },
+        "tasks": {
+            "tasks": "Zadania",
+            "energy": "Energia",
+            "start": "Rozpocznij",
+            "exp": "Doświadczenie",
+            "money": "Pieniądze",
+            "finish": "Zakończ",
+            "close": "Zamknij",
+            "deals": "zadaje",
+            "damage": "obrażeń"
+        },
+        "employeeCard": {
+            "employeeCard": "Karta Pracownika",
+            "name": "Nazwa",
+            "level": "Poziom",
+            "team": "Zespół",
+            "brainHealth": "Zdrowie psychiczne",
+            "brainHealthDesc": "Zdrowie psychiczne zwiększa Twoje ogólne zdrowie",
+            "pressure": "Presja",
+            "pressureDesc": "Presja zwiększa moc Twoich ataków",
+            "stressResistance": "Odporność na stres",
+            "stressResistanceDesc": "Odporność na stres zwiększa Twoją odporność na obrażenia",
+            "logic": "Logika",
+            "logicDesc": "Logika zwiększa moc Twoich specjalnych ataków ",
+            "willpower": "Silna wola",
+            "willpowerDesc": "Silna wola zwiększa Twoją odporność na specjalne ataki",
+            "luck": "Szczęście",
+            "luckDesc": "Szczęście zwiększa Twoją szanse na obrażenia krytyczne",
+            "pointsToSpend": "Punkty do rozdania",
+            "exp": "Doświadczenie"
+        },
+        "stats": {
+            "stats": "Statystyki",
+            "health": "Zdrowie",
+            "damage": "Obrażenia",
+            "defence": "Obrona",
+            "spDamage": "Specjalne Obrażenia",
+            "spDefence": "Specjalna Obrona",
+            "criticalRate": "Obrażenia krytyczne"
+        }
+    },
+    "team": {
+        "title": "Zespół"
+    },
+    "inbox": {
+        "title": "Wiadomości",
+        "header": {
+            "title": "Tytuł",
+            "sender": "Nadawca",
+            "date": "Data"
+        },
+        "message": {
+            "message": "Wiadomość",
+            "answer": "Odpowiedź",
+            "send": "Wyślij",
+            "from": "Od",
+            "date": "Data",
+            "sendMessage": "Wyślij wiadomość",
+            "messageRequired": "Treść wiadomości jest wymagana"
+        }
+    },
+    "canteen": {
+        "title": "Kantyna"
+    },
+    "hierarchy": {
+        "title": "Hierarchia"
+    },
+    "hallOfShame": {
+        "title": "Lista wstydu",
+        "tabs": {
+            "employees": "Pracownicy",
+            "teams": "Zespoły"
+        },
+        "employeesList": {
+            "employeesRanking": "Ranking pracowników"
+        }
+    },
+    "settings": {
+        "title": "Ustawienia"
+    },
+    "profile": {
+        "title": "Profil"
+    }
+}

@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+.hidden-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+  
+.hidden-scrollbar {
+  -ms-overflow-style: none;  
+  scrollbar-width: none;  
+}
+
+.battle-scrollbar {
+
+}
+
+.battle-scrollbar::-webkit-scrollbar {
+  width: 0.75rem;
+}
+.battle-scrollbar::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 0 0.75rem 0.75rem 0;
+}
+.battle-scrollbar::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 0.75rem;
+}
+.battle-scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@keyframes newMessage {
+  from {background-color: #f0f9ff;}
+  50% {background-color: #bae6fd;}
+  to {background-color: #f0f9ff;}
+}
+
+.newMessage {
+  animation-name: newMessage;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+}
