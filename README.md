@@ -2,6 +2,7 @@
 ## Stack
 - React / Next.js 14
 - ShadCN / Tailwind
+- Typescript
 - React Hook Form
 ## TODO
 - Team system
